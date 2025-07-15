@@ -1,15 +1,25 @@
 Program yang digunakan dalam "SISTEM TOKO SENDAL ONLINE CITRA" ini menjalankan simulasi dasar sebuah toko online.
+
 1.Melihat-lihat sendal apa saja yang dijual (beserta harganya dan berapa stoknya).
+
 2.Memasukkan sendal yang kamu suka ke keranjang belanja.
+
 3.Melihat kembali isi keranjang belanja kamu (sendal apa saja, berapa jumlahnya, dan berapa total harganya).
+
 4.Melakukan pembayaran alias checkout.
+
 5.Keluar dari toko kalau sudah selesai belanja.
 
 adapun cara kerjanya :
+
 yang pertama di sini ada menu-menu sendalnya beserta harga dan stok tersebut :
+
 "Sandal Jepit Klasik": {"harga": 25000, "stok": 20},
+
 "Sandal Gunung Adventurer": {"harga": 80000, "stok": 12},
+
 "Sandal Kulit Santai": {"harga": 150000, "stok": 8},
+
 "Sandal Slop Modern": {"harga": 60000, "stok": 15}
 
 jika kamu tertarik dan suka kamu bisa menambahkan nya ke dalam keranjang
