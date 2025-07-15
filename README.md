@@ -12,7 +12,7 @@ Program yang digunakan dalam "SISTEM TOKO SENDAL ONLINE CITRA" ini menjalankan s
 
 adapun cara kerjanya :
 
-1- yang pertama di sini ada menu-menu sendalnya beserta harga dan stok tersebut :
+1. yang pertama di sini ada menu-menu sendalnya beserta harga dan stok tersebut :
 
 "Sandal Jepit Klasik": {"harga": 25000, "stok": 20},
 
@@ -22,7 +22,7 @@ adapun cara kerjanya :
 
 "Sandal Slop Modern": {"harga": 60000, "stok": 15}
 
-2- jika kamu tertarik dan suka kamu bisa menambahkan nya ke dalam keranjang
+2. jika kamu tertarik dan suka kamu bisa menambahkan nya ke dalam keranjang
 
 Pertama, program akan menanyakan sendal apa yang mau kamu beli dan berapa jumlahnya
  Lalu, program akan cek:
@@ -35,14 +35,14 @@ Pertama, program akan menanyakan sendal apa yang mau kamu beli dan berapa jumlah
 
  Kalau semuanya aman, sendal itu akan ditambahkan ke keranjangmu, dan jumlah stok di gudang kita akan otomatis berkurang.
  
-3- lihat_keranjang: Cek Isi Keranjangmu
+3. lihat_keranjang: Cek Isi Keranjangmu
 
 Fitur ini akan menampilkan semua sendal yang sudah kamu masukkan ke keranjang, beserta jumlahnya dan total harganya. 
 
 Kalau keranjangmu masih kosong, dia akan bilang "Keranjang Anda masih kosong."
 
 
-4- checkout()`: Bayar Belanjaanmu
+4. checkout : Bayar Belanjaanmu
 
 Kalau kamu sudah puas dengan isi keranjangmu dan siap bayar: Program akan menampilkan lagi ringkasan belanjaanmu (total harganya).
 
